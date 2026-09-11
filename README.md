@@ -96,7 +96,7 @@ sudo nmcli connection up "Wired connection 1"
 
 Disabling the duplicate-address-detection timeout and cycling the connection down/up applied the new IP correctly.
 
-## 💡 **What I Learned This **
+## 💡 **What I Learned In This**
 The difference between VirtualBox's Basic and Expert view, and where key settings like Network configuration are hidden in each
 How a custom NAT Network differs from a default NAT adapter, and why it's needed for a controllable, addressable lab VM
 How to manually configure and troubleshoot network connections in Kali Linux using both nm-connection-editor and nmcli
