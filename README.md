@@ -31,6 +31,12 @@ Internet Access	Full access confirmed
 Step 1: VirtualBox Installation
 
 Installed the latest version of Oracle VirtualBox on the host machine as the hypervisor for the lab.
+<img width="1600" height="897" alt="VM BOX INstallation" src="https://github.com/user-attachments/assets/7d7233a6-f21a-4984-b70a-c776e36aac51" />
+
+
+
+
+
 
 
 
