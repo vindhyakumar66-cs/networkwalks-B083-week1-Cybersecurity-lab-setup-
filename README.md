@@ -19,15 +19,15 @@ Shared folder enabled, mapping the host's /downloads folder into the VM
 Full internet access confirmed on the Kali Linux machine**
 
 ## 🧩 **Lab Environment**
-Component	Configuration
-Virtualization Platform	Oracle VirtualBox
-Guest OS	Kali Linux
-Network Mode	NAT Network
-Subnet	10.0.0.0/24
-Kali Linux IP Address	10.0.0.2/24
-Shared Folder	/downloads (host → guest)
-Clipboard & Drag/Drop	Enabled
-Internet Access	Full access confirmed
+Component	Configuration<br>
+Virtualization Platform	Oracle VirtualBox<br>
+Guest OS	Kali Linux<br>
+Network Mode	NAT Network<br>
+Subnet	10.0.0.0/24<br>
+Kali Linux IP Address	10.0.0.2/24<br>
+Shared Folder	/downloads (host → guest)<br>
+Clipboard & Drag/Drop	Enabled<br>
+Internet Access	Full access confirmed<br>
 ## 🪜 **Step-by-Step Build**
 ## **Step 1: VirtualBox Installation**
 
