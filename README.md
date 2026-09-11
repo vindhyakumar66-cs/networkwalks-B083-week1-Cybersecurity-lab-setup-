@@ -44,7 +44,8 @@ Installed the latest version of Oracle VirtualBox on the host machine as the hyp
 Step 2: Kali Linux Setup
 
 Set up Kali Linux as a guest VM to act as the attacking/hacker machine for future exercises.
-![Week 1 Screenshot](![Week 1 Screenshot](your-screenshot-name.png).png)
+<img width="1600" height="769" alt="Kali Linux setup" src="https://github.com/user-attachments/assets/40565279-b16b-4efa-9098-2ec3a3b0723a" />
+
 
 Step 3: NAT Network Configuration
 
