@@ -51,25 +51,29 @@ Step 3: NAT Network Configuration
 
 Configured a custom NAT Network on subnet 10.0.0.0/24, instead of using the default NAT adapter. A NAT Network was required (rather than plain NAT) so the VM could be given a fixed, predictable IP while still retaining outbound internet access.
 
-(add screenshot)
+<img width="1600" height="769" alt="nat network ip address configuration " src="https://github.com/user-attachments/assets/b20ac98f-364b-42c7-acb1-c13a7c9b83c3" />
+
 
 Step 4: VM Settings — Clipboard, Drag/Drop & Shared Folder
 
 Enabled bidirectional clipboard sharing and drag-and-drop in the VM settings, and set up a shared folder mapping the host's /downloads folder into Kali Linux, for easy file transfer between host and guest.
 
-(add screenshot)
+<img width="1600" height="892" alt="Vm box folder drag drop settings" src="https://github.com/user-attachments/assets/aa9a8bd7-b8de-48ef-b8ce-309c140fb67f" />
+
 
 Step 5: Static IP Configuration
 
 Assigned Kali Linux a static IP address of 10.0.0.2/24 within the NAT Network and verified internet connectivity.
 
-(add screenshot)
+<img width="1600" height="768" alt="nat network ip setting  45" src="https://github.com/user-attachments/assets/b1a3dbe9-a008-4aa8-9635-63f935c54bab" />
+
 
 Step 6: Snapshot
 
 Took a VM snapshot once the network configuration was confirmed working, to use as a clean recovery point for future exercises.
 
-(add screenshot)
+<img width="1600" height="769" alt="Kali Linux VM setup" src="https://github.com/user-attachments/assets/0bc102da-dd51-432e-8bbf-7ea2c1134d33" />
+
 
 🐞 Problems Faced & Solutions
 Problem 1: Network option missing in VirtualBox settings
@@ -107,4 +111,4 @@ Screenshots for each step above are added in the screenshots/ folder and linked 
 
 👤 Author
 
-Vindhya Cybersecurity Intern — Batch B083 Networkwalks Academy
+Vindhya Cybersecurity Intern — Batch B083 Networkwalks Academy, Mentor: Waqas Karim (CCIE)
